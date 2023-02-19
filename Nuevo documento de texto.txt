@@ -1,0 +1,3 @@
+
+Index.html es la página que se va a mostrar por defecto al presionar en nuestra
+URL. 
