@@ -1,3 +1,18 @@
 
 Index.html es la página que se va a mostrar por defecto al presionar en nuestra
 URL. 
+html se trabaja con etiquetas o tags, las cuales también podemos interpretar como
+'cajas'.
+
+Qué eqtiquetas hay?
+
+Tipo de etiqueta que se abren y se cierran.
+
+<br> NO SE CIERRA
+<h1></h1> Se abre y se cierra
+
+Dentro de la etiueta <html> </html> se encuentra toda la p[agina web, es decir, todas
+las demas etiquetas, tanto lo que vemos y lo que no vemos. En la etiqueta head pondremos
+todo lo que no se puede ver, en cambio, en el body esta todo lo que podemos ver, 
+generalmente en el head se encuentra la configuracion y en el body
+las cajas, los colores, botones, etc.
